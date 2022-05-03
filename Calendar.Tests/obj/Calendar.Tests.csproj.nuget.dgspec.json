@@ -1,33 +1,33 @@
 {
   "format": 1,
   "restore": {
-    "/Users/ramenimo/Desktop/Epicodous/C-sharp/Projects/Calendar.Solutions/Calendar.Tests/Calendar.Tests.csproj": {}
+    "/Users/ramenimo/Desktop/Epicodous/C-sharp/Projects/calendar/Calendar.Tests/Calendar.Tests.csproj": {}
   },
   "projects": {
-    "/Users/ramenimo/Desktop/Epicodous/C-sharp/Projects/Calendar.Solutions/Calendar.Tests/Calendar.Tests.csproj": {
+    "/Users/ramenimo/Desktop/Epicodous/C-sharp/Projects/calendar/Calendar.Tests/Calendar.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/ramenimo/Desktop/Epicodous/C-sharp/Projects/Calendar.Solutions/Calendar.Tests/Calendar.Tests.csproj",
+        "projectUniqueName": "/Users/ramenimo/Desktop/Epicodous/C-sharp/Projects/calendar/Calendar.Tests/Calendar.Tests.csproj",
         "projectName": "Calendar.Tests",
-        "projectPath": "/Users/ramenimo/Desktop/Epicodous/C-sharp/Projects/Calendar.Solutions/Calendar.Tests/Calendar.Tests.csproj",
+        "projectPath": "/Users/ramenimo/Desktop/Epicodous/C-sharp/Projects/calendar/Calendar.Tests/Calendar.Tests.csproj",
         "packagesPath": "/Users/ramenimo/.nuget/packages/",
-        "outputPath": "/Users/ramenimo/Desktop/Epicodous/C-sharp/Projects/Calendar.Solutions/Calendar.Tests/obj/",
+        "outputPath": "/Users/ramenimo/Desktop/Epicodous/C-sharp/Projects/calendar/Calendar.Tests/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/ramenimo/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
-          "net6.0"
+          "net5.0"
         ],
         "sources": {
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net6.0": {
-            "targetAlias": "net6.0",
+          "net5.0": {
+            "targetAlias": "net5.0",
             "projectReferences": {
-              "/Users/ramenimo/Desktop/Epicodous/C-sharp/Projects/Calendar.Solutions/Calendar/Calendar.csproj": {
-                "projectPath": "/Users/ramenimo/Desktop/Epicodous/C-sharp/Projects/Calendar.Solutions/Calendar/Calendar.csproj"
+              "/Users/ramenimo/Desktop/Epicodous/C-sharp/Projects/calendar/Calendar/Calendar.csproj": {
+                "projectPath": "/Users/ramenimo/Desktop/Epicodous/C-sharp/Projects/calendar/Calendar/Calendar.csproj"
               }
             }
           }
@@ -39,8 +39,8 @@
         }
       },
       "frameworks": {
-        "net6.0": {
-          "targetAlias": "net6.0",
+        "net5.0": {
+          "targetAlias": "net5.0",
           "dependencies": {
             "MSTest.TestAdapter": {
               "target": "Package",
@@ -74,27 +74,27 @@
         }
       }
     },
-    "/Users/ramenimo/Desktop/Epicodous/C-sharp/Projects/Calendar.Solutions/Calendar/Calendar.csproj": {
+    "/Users/ramenimo/Desktop/Epicodous/C-sharp/Projects/calendar/Calendar/Calendar.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/ramenimo/Desktop/Epicodous/C-sharp/Projects/Calendar.Solutions/Calendar/Calendar.csproj",
+        "projectUniqueName": "/Users/ramenimo/Desktop/Epicodous/C-sharp/Projects/calendar/Calendar/Calendar.csproj",
         "projectName": "Calendar",
-        "projectPath": "/Users/ramenimo/Desktop/Epicodous/C-sharp/Projects/Calendar.Solutions/Calendar/Calendar.csproj",
+        "projectPath": "/Users/ramenimo/Desktop/Epicodous/C-sharp/Projects/calendar/Calendar/Calendar.csproj",
         "packagesPath": "/Users/ramenimo/.nuget/packages/",
-        "outputPath": "/Users/ramenimo/Desktop/Epicodous/C-sharp/Projects/Calendar.Solutions/Calendar/obj/",
+        "outputPath": "/Users/ramenimo/Desktop/Epicodous/C-sharp/Projects/calendar/Calendar/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/ramenimo/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
-          "net6.0"
+          "net5.0"
         ],
         "sources": {
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net6.0": {
-            "targetAlias": "net6.0",
+          "net5.0": {
+            "targetAlias": "net5.0",
             "projectReferences": {}
           }
         },
@@ -105,8 +105,8 @@
         }
       },
       "frameworks": {
-        "net6.0": {
-          "targetAlias": "net6.0",
+        "net5.0": {
+          "targetAlias": "net5.0",
           "imports": [
             "net461",
             "net462",
